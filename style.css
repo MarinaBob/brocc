@@ -1,0 +1,38 @@
+body {
+  background-color: red;
+}
+
+p {
+  color: blue;
+  font:2em sans-serif;
+}
+
+h2 {
+  color:#720B68;
+  font:3em serif;
+}
+
+#heading1 {
+  color:gray;
+}
+
+.head1 {
+  color:black;
+}
+
+.bro {
+  background-color: blue;
+}
+
+.tree {
+  background-color: yellow;
+}
+
+.images {
+  width:25%;
+}
+
+.par1 {
+  color:#723B0B;
+  font: 3em serif;
+}
